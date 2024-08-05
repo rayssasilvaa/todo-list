@@ -8,8 +8,7 @@
 }
 
 body{
-    background-image: url('https://images.pexels.com/photos/2525903/pexels-photo-2525903.jpeg');
-    background-size: cover;
+    background-color: #010120;
     position: absolute;
     left: 50%;
     top: 50%;
